@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     var a = 1
     
-    
+    var c = 9
     
     override func viewDidLoad() {
         super.viewDidLoad()
