@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     var c = 9
     
-    var d = 5
+    var d : NSObject = 5
     
     override func viewDidLoad() {
         super.viewDidLoad()
